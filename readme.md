@@ -5,6 +5,11 @@ StarNotary smart contract allows for the ownership and transfer  stars, that is 
 Name and Symbol:
 Contract token name's is "Star Token" and symbol is "USD".
 
+My Versions :
+Truffle v5.0.26 
+Node v8.11.3
+openzeppelin-solidity@2.3.0
+
 Getting started and deploying contract:
 install npm by running the below command:
 npm install
