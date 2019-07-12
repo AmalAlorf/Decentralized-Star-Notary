@@ -4,12 +4,16 @@ StarNotary smart contract allows for the ownership and transfer  stars, that is 
 
 ### Project Details
 Truffle v5.0.26  
+
 openzeppelin-solidity 2.3.0
+
 Node v8.11.3
 
 ### Contract Details
 ERC-721 Token Name: "Star Toke"
+
 ERC-721 Token Symbol: "USD"
+
 Token Address on the rinkeby Network: 0xADDRESS
 
 ### Getting started and deploying contract:
