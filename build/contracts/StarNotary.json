@@ -7223,12 +7223,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0xbDf7CAdcF3567b1841F75dFDCFFeB304f33D7489",
-      "transactionHash": "0x25f7788d7026409fe61c4c957690d0f2f1df17cab9707c193e5c087d49edccd9"
+      "address": "0xF5EBE9B1a5D547AAD8a0e4a1b83f7732344f8e40",
+      "transactionHash": "0x5334f4d4837d89834b5b099a7d59609e13542591b91c2a98540070304b255b23"
     }
   },
   "schemaVersion": "3.0.11",
-  "updatedAt": "2019-07-09T16:03:09.504Z",
+  "updatedAt": "2019-07-12T20:51:35.086Z",
   "devdoc": {
     "methods": {
       "approve(address,uint256)": {

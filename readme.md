@@ -14,7 +14,7 @@ ERC-721 Token Name: "Star Toke"
 
 ERC-721 Token Symbol: "USD"
 
-Token Address on the rinkeby Network: 0xADDRESS
+Token Address on the rinkeby Network: bcc0226b952442dcbbbcea70607c7e70
 
 ### Getting started and deploying contract:
 install npm by running the below command:
